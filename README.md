@@ -4,7 +4,7 @@
 
 Based in Manchester, UK. Open to software engineering opportunities.
 
-I build web applications with a focus on clear interfaces, practical AI features, and reliable backend workflows. I am a cofounder of [One Click AI](https://oneclickai.studio), a product for video creators.
+I build web applications with a focus on clear interfaces, practical AI features, and reliable backend workflows. I built [One Click AI](https://oneclickai.studio) end to end: a live AI video product for creators, with 3,600+ registered users.
 
 ## What I work on
 
